@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/BackendServices/" />
+  <Folder Name="/BackendServices/AuthService/">
+    <Project Path="BackendServices/AuthService/Auth.API/Auth.API.csproj" />
+    <Project Path="BackendServices/AuthService/Auth.BLL/Auth.BLL.csproj" />
+    <Project Path="BackendServices/AuthService/Auth.DAL/Auth.DAL.csproj" />
+  </Folder>
+</Solution>
